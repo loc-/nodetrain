@@ -34,7 +34,8 @@ var settings = {
     userFilter:
     		  	  ['602628098', 	//AEParviainen
     		  	   '25388283', 		//ristinolla
-    		  	   '36048614'] 		//alexstubb
+    		  	   '36048614',   //alexstubb
+               '398693880']   //kokokansanpaavo :DD		
     
 };
 
